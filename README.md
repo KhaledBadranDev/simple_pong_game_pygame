@@ -15,3 +15,16 @@ so it is an excellent project for beginners.
 - python 3
 - pygame
 - Basic knowledge of python
+<br>
+<br>
+
+# Contributors:
+- Khaled Badran (Programming Gym) => 📧E-mail: <gym4programming@gmail.com>
+<br>
+<br>
+
+
+# License & Copyright:
+© Khaled Badran (Programming Gym)
+<br>
+Licensed under the [MIT License](LICENSE)
